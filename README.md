@@ -1,5 +1,6 @@
 <h1 style="text-align: center;">Encriptador Web 🔐</h1>
 
+![Imagen de Portada](portada.png)
 
 ## Descripción
 Este proyecto consiste en una página web que permite a los usuarios cifrar y descifrar texto ingresado. La aplicación utiliza JavaScript para manipular el texto y aplicar algoritmos de cifrado y descifrado. Además, se proporciona un estilo visual atractivo mediante CSS para mejorar la experiencia del usuario.
@@ -28,8 +29,4 @@ Este proyecto consiste en una página web que permite a los usuarios cifrar y de
 ## Autor
 - [Nadia Escobar](https://www.linkedin.com/in/nadia-escobar-2b6095265/) 🚀
 
-## Licencia
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-![Imagen de Portada](C:\Users\pc\OneDrive\Documents\ecriptalura\portada.png)
 
